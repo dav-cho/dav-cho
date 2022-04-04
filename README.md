@@ -17,18 +17,20 @@ As a graduate from General Assembly's Software Engineering Immersive bootcamp, I
     <tr>
       <td>Languages</td>
       <td>
-        <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
-        <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
         <img src="https://img.shields.io/badge/-Javascript-d1bb15?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript Badge" />
         <img src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript Badge" />
         <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
         <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge" />
+        <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
+        <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
       </td>
     </tr>
     <tr>
       <td>Frameworks & Libraries</td>
       <td>
         <img src="https://img.shields.io/badge/-React-49aec9?style=for-the-badge&logo=react&logoColor=white" alt="React Badge" />
+        <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge" />
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge" />
         <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge" />
         <img src="https://img.shields.io/badge/-Mongoose-800?style=for-the-badge&logo=javascript&logoColor=white" alt="Mongoose Badge" />
         <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge" />
