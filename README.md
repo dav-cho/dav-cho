@@ -6,9 +6,7 @@
 
 ### About Me
 
-avid reader, professional snacker and aspiring software engineer.
-
-As a graduate from General Assembly's Software Engineering Immersive bootcamp, I am pursuing a career in software engineering in order to make an impactful change through the medium of technology. My experience in small business management and customer service has given me an open mind, hard work ethic and veritable insights into what it takes to become an invaluable employee and coworker. With a propensity towards creativity and detail, I hope to leverage my abilities to the fullest while learning and growing alongside those around me.
+avid reader, professional snacker and software engineer.
 
 ### Skills
 
